@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>234591A7BF84DD97295201DBEBAFB46B</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Похождения отважного хомяка Семёна 3: На полу</title>
+			<author>DroZ</author>
+			<language>ru</language>
+			<firstpublished>2002-09-28</firstpublished>
+			<genre>Юмор</genre>
+			<group>URQ</group>
+			<description>Вы - хомяк по кличке Семён. Если вы прошли предыдущие игры серии, то должны помнить, что вас коварно заточили в клетку, но Вам удалось вырваться на свободу и спуститься со стола. Теперь вы в роли хомяка Семёна должны пробраться к выходу из дома. Пока всё.</description>
+			<series>Похождения отважного хомяка Семёна</series>
+			<seriesnumber>3</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hamster3</url>
+			<authoremail>ghost2002@xakep.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
